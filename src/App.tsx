@@ -1,3 +1,4 @@
+// FBLA Nationals Prep Command Center
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import HomePage from './pages/HomePage';
 import Dashboard from './pages/Dashboard';
