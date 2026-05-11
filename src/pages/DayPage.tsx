@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { useParams, Link, useNavigate, Navigate } from 'react-router-dom';
+import { useParams, Link, Navigate } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useStore } from '../store/useStore';
 import studyPlan from '../data/studyPlan.json';
@@ -19,8 +19,7 @@ import { useRollover } from '../hooks/useRollover';
 
 const DayPage = () => {
   const { profileId, date } = useParams();
-  const navigate = useNavigate();
-  const { progress, toggleTopic, saveMcqScore, updateStreak, addRolloverTasks, completeRolloverTask } = useStore();
+  const { progress, toggleTopic, saveMcqScore, updateStreak, completeRolloverTask } = useStore();
   
   useRollover(profileId || null);
 
@@ -30,7 +29,6 @@ const DayPage = () => {
   const [expandedTopic, setExpandedTopic] = useState<string | null>(null);
   const [mcqState, setMcqState] = useState<'view' | 'quiz' | 'result'>('view');
   const [currentAnswers, setCurrentAnswers] = useState<Record<string, number>>({});
-  const [showResult, setShowResult] = useState(false);
 
   if (!dayData) return <Navigate to={`/profile/${profileId}`} />;
 
@@ -46,7 +44,7 @@ const DayPage = () => {
 
   const handleMcqSubmit = () => {
     let score = 0;
-    dayData.mcqs.forEach((q, idx) => {
+    dayData.mcqs.forEach((q) => {
       if (currentAnswers[q.id] === q.answer) score++;
     });
     saveMcqScore(profileId!, date!, score);
