@@ -35,7 +35,7 @@ const DayPage = () => {
   if (!dayData) return <Navigate to={`/profile/${profileId}`} />;
 
   const isDayCompleted = dayData.topics.every(t => userProgress.completedTopics.includes(t.id)) && 
-                         userProgress.mcqScores[date!] !== undefined;
+                         (dayData.mcqs.length === 0 || userProgress.mcqScores[date!] !== undefined);
 
   // Handle completion and streak
   useEffect(() => {
