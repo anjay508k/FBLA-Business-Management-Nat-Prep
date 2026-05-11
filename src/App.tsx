@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import HomePage from './pages/HomePage';
 import Dashboard from './pages/Dashboard';
 import DayPage from './pages/DayPage';
-import { useStore } from './store/useStore';
 
 function App() {
 
