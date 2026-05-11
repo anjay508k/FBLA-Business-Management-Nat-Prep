@@ -1,0 +1,1287 @@
+[
+  {
+    "date": "2026-05-11",
+    "day": 1,
+    "title": "Functions of Management",
+    "difficulty": "Medium",
+    "topics": [
+      {
+        "id": "1-1",
+        "title": "Functions of Management",
+        "studyTime": "30 min",
+        "description": "The four primary functions of management are Planning, Organizing, Leading (Directing), and Controlling. Planning involves setting goals and determining the best way to achieve them. Organizing involves assigning tasks and allocating resources. Leading involves motivating and influencing employees to work toward goals. Controlling involves monitoring progress and making corrections."
+      },
+      {
+        "id": "1-2",
+        "title": "Levels of Management",
+        "studyTime": "20 min",
+        "description": "Management is typically divided into three levels: Top-level (strategic), Middle-level (tactical), and First-line (operational). Top managers focus on long-term goals and the organization as a whole. Middle managers translate top-level goals into specific plans for their departments. First-line managers oversee the daily activities of non-managerial employees."
+      },
+      {
+        "id": "1-3",
+        "title": "Leadership vs Management",
+        "studyTime": "20 min",
+        "description": "While the terms are often used interchangeably, they are distinct. Management is about process, stability, and control—doing things right. Leadership is about vision, inspiration, and change—doing the right things. Effective managers must also be leaders, but not all leaders are managers."
+      },
+      {
+        "id": "1-4",
+        "title": "Organizational Goals",
+        "studyTime": "15 min",
+        "description": "Goals provide direction and a sense of purpose. They can be strategic (long-term, broad), tactical (intermediate, specific), or operational (short-term, highly detailed). Goals should align throughout the organization to ensure everyone is working toward the same mission."
+      },
+      {
+        "id": "1-5",
+        "title": "Managerial Effectiveness",
+        "studyTime": "15 min",
+        "description": "Effectiveness is 'doing the right things'—the degree to which an organization achieves its goals. Efficiency is 'doing things right'—achieving goals with minimal waste of resources. High-performing managers balance both."
+      }
+    ],
+    "roleplayConnection": "In FBLA Business Management role plays, judges look for a clear understanding of how management functions interact. If you are tasked with solving a problem in a department, you must explain how you will PLAN the solution, ORGANIZE the resources, LEAD the team through the change, and CONTROL the outcome through KPIs. Failing to mention all four can signal a lack of holistic management thinking.",
+    "mcqs": [
+      {
+        "id": "q1-1",
+        "question": "A CEO is developing a 10-year vision for the company's expansion into international markets. Which management function is primarily being exercised?",
+        "options": ["Organizing", "Leading", "Planning", "Controlling"],
+        "answer": 2,
+        "explanation": "Planning involves setting long-term goals and determining the strategies to achieve them. A 10-year vision is a strategic plan."
+      },
+      {
+        "id": "q1-2",
+        "question": "Which level of management is typically responsible for translating broad strategic goals into specific tactical objectives?",
+        "options": ["Top-level Management", "Middle Management", "First-line Management", "Non-managerial Staff"],
+        "answer": 1,
+        "explanation": "Middle managers act as the bridge between top-level strategy and first-line operations, developing tactical plans."
+      },
+      {
+        "id": "q1-3",
+        "question": "A manager notice that the production line is producing 10% more waste than the standard allowed. They initiate a meeting to find the root cause. This is an example of:",
+        "options": ["Planning", "Organizing", "Leading", "Controlling"],
+        "answer": 3,
+        "explanation": "Controlling involves monitoring performance, comparing it against standards, and taking corrective action."
+      },
+      {
+        "id": "q1-4",
+        "question": "According to Peter Drucker, 'doing things right' refers to ________, while 'doing the right things' refers to ________.",
+        "options": ["Effectiveness; Efficiency", "Efficiency; Effectiveness", "Management; Leadership", "Planning; Organizing"],
+        "answer": 1,
+        "explanation": "Efficiency is doing things right (optimizing resources), while effectiveness is doing the right things (achieving goals)."
+      },
+      {
+        "id": "q1-5",
+        "question": "Which of the following skills becomes MORE important as a manager moves up to higher levels of the organization?",
+        "options": ["Technical skills", "Interpersonal skills", "Conceptual skills", "Diagnostic skills"],
+        "answer": 2,
+        "explanation": "Conceptual skills—the ability to see the organization as a whole and the relationship between its parts—are critical for top-level strategic management."
+      },
+      {
+        "id": "q1-6",
+        "question": "An operational manager spends most of their time:",
+        "options": ["Setting the corporate mission", "Coordinating between departments", "Supervising non-managerial employees", "Analyzing market trends"],
+        "answer": 2,
+        "explanation": "First-line or operational managers work directly with the employees who produce the products or services."
+      },
+      {
+        "id": "q1-7",
+        "question": "Which management function involves determining what tasks are to be done, who is to do them, and how the tasks are to be grouped?",
+        "options": ["Planning", "Organizing", "Leading", "Controlling"],
+        "answer": 1,
+        "explanation": "Organizing is the process of structuring the workforce and resources to carry out the plans."
+      },
+      {
+        "id": "q1-8",
+        "question": "A manager who inspires their team to achieve a difficult goal during a crisis is primarily demonstrating:",
+        "options": ["Planning", "Organizing", "Leading", "Staffing"],
+        "answer": 2,
+        "explanation": "Leading (or Directing) involves motivating, influencing, and guiding employees toward goal achievement."
+      },
+      {
+        "id": "q1-9",
+        "question": "Strategic goals are typically:",
+        "options": ["Short-term and highly specific", "Long-term and broad", "Intermediate and departmental", "Individualized and task-oriented"],
+        "answer": 1,
+        "explanation": "Strategic goals set the long-term direction (usually 3-5+ years) for the entire organization."
+      },
+      {
+        "id": "q1-10",
+        "question": "The 'Chain of Command' refers to:",
+        "options": ["The total number of employees in a company", "The continuous line of authority that connects everyone in the organization", "The process of setting salaries", "The list of rules in the employee handbook"],
+        "answer": 1,
+        "explanation": "The chain of command is the hierarchy of authority that dictates who reports to whom."
+      },
+      {
+        "id": "q1-11",
+        "question": "When a manager is performing the 'Interpersonal' role as defined by Mintzberg, they are acting as a:",
+        "options": ["Monitor", "Disturbance Handler", "Figurehead", "Resource Allocator"],
+        "answer": 2,
+        "explanation": "The figurehead role is one of Mintzberg's interpersonal roles, involving symbolic legal or social duties."
+      },
+      {
+        "id": "q1-12",
+        "question": "Which of these is a 'Decisional' role according to Mintzberg?",
+        "options": ["Leader", "Liaison", "Disseminator", "Entrepreneur"],
+        "answer": 3,
+        "explanation": "Entrepreneur is a decisional role where the manager seeks to improve the unit by initiating projects."
+      },
+      {
+        "id": "q1-13",
+        "question": "A company decides to outsource its payroll function to save money. This is primarily a decision regarding:",
+        "options": ["Effectiveness", "Efficiency", "Leading", "Controlling"],
+        "answer": 1,
+        "explanation": "Outsourcing for cost savings is an effort to improve efficiency (reducing resource usage)."
+      },
+      {
+        "id": "q1-14",
+        "question": "The 'Double-Loop Learning' concept in management refers to:",
+        "options": ["Checking if a task was done correctly", "Changing the goals based on results", "Correcting errors and then questioning the underlying values/policies", "Training two employees at once"],
+        "answer": 2,
+        "explanation": "Double-loop learning involves questioning the assumptions and policies that led to an error, rather than just fixing the error."
+      },
+      {
+        "id": "q1-15",
+        "question": "Which management scholar is known for the '14 Principles of Management'?",
+        "options": ["Frederick Taylor", "Max Weber", "Henri Fayol", "Abraham Maslow"],
+        "answer": 2,
+        "explanation": "Henri Fayol developed the 14 principles of management, which are foundational to modern organizational theory."
+      },
+      {
+        "id": "q1-16",
+        "question": "Total Quality Management (TQM) is most closely related to which management function?",
+        "options": ["Planning", "Leading", "Organizing", "Controlling"],
+        "answer": 3,
+        "explanation": "TQM is a continuous process of detecting and reducing or eliminating errors, which is a core part of the controlling function."
+      },
+      {
+        "id": "q1-17",
+        "question": "Span of control refers to:",
+        "options": ["The distance a manager travels", "The number of employees a manager can efficiently and effectively lead", "The duration of a manager's contract", "The budget a manager oversees"],
+        "answer": 1,
+        "explanation": "Span of control defines how many subordinates report directly to one manager."
+      },
+      {
+        "id": "q1-18",
+        "question": "A matrix organizational structure violates which of Fayol's principles?",
+        "options": ["Division of work", "Unity of command", "Scalar chain", "Order"],
+        "answer": 1,
+        "explanation": "Unity of command states an employee should have only one superior. In a matrix, they often report to both a functional and a project manager."
+      },
+      {
+        "id": "q1-19",
+        "question": "The 'Hawthorne Studies' concluded that:",
+        "options": ["Lighting does not affect productivity", "Employee performance improves when they feel observed and valued", "Higher pay is the only motivator", "Shorter workdays are always better"],
+        "answer": 1,
+        "explanation": "The Hawthorne Effect suggests that social factors and being singled out for attention can increase productivity."
+      },
+      {
+        "id": "q1-20",
+        "question": "Management by Objectives (MBO) is a process where:",
+        "options": ["Managers set goals for employees", "Employees set their own goals", "Managers and employees jointly set goals and review progress", "Goals are set by an external consultant"],
+        "answer": 2,
+        "explanation": "MBO involves a collaborative process of goal setting to ensure alignment and motivation."
+      }
+    ]
+  },
+  {
+    "date": "2026-05-12",
+    "day": 2,
+    "title": "Strategic Planning & Analysis",
+    "difficulty": "Hard",
+    "topics": [
+      {
+        "id": "2-1",
+        "title": "Strategic Planning",
+        "studyTime": "30 min",
+        "description": "Strategic planning is the process of defining an organization's strategy, or direction, and making decisions on allocating its resources to pursue this strategy. It typically involves a 3-5 year horizon."
+      },
+      {
+        "id": "2-2",
+        "title": "Tactical & Operational Planning",
+        "studyTime": "25 min",
+        "description": "Tactical planning (6 months - 2 years) breaks down strategic goals into specific actions for departments. Operational planning (daily/weekly) focuses on the execution of specific tasks."
+      },
+      {
+        "id": "2-3",
+        "title": "SWOT Analysis",
+        "studyTime": "20 min",
+        "description": "A framework used to evaluate a company's competitive position. Strengths and Weaknesses are internal factors. Opportunities and Threats are external factors."
+      },
+      {
+        "id": "2-4",
+        "title": "SMART Goals",
+        "studyTime": "15 min",
+        "description": "Goals should be Specific, Measurable, Achievable, Relevant, and Time-bound. This framework ensures goals are clear and trackable."
+      },
+      {
+        "id": "2-5",
+        "title": "PESTEL Analysis",
+        "studyTime": "15 min",
+        "description": "Analyzes the macro-environment: Political, Economic, Social, Technological, Environmental, and Legal factors."
+      }
+    ],
+    "roleplayConnection": "Judges in strategic roles will ask you to justify a new initiative. You should use a SWOT analysis to frame your answer. For example, 'This expansion leverages our STRENGTH in brand loyalty while mitigating the THREAT of a new competitor.' This shows you aren't just guessing, but using industry-standard tools to make decisions.",
+    "mcqs": [
+      {
+        "id": "q2-1",
+        "question": "In a SWOT analysis, a rising interest rate in the economy would be classified as a:",
+        "options": ["Strength", "Weakness", "Opportunity", "Threat"],
+        "answer": 3,
+        "explanation": "Economic factors like interest rates are external to the firm and usually represent a threat (if rising costs of borrowing) or opportunity."
+      },
+      {
+        "id": "q2-2",
+        "question": "Which type of planning involves daily work schedules and specific task assignments?",
+        "options": ["Strategic", "Tactical", "Operational", "Contingency"],
+        "answer": 2,
+        "explanation": "Operational planning deals with the day-to-day activities of the organization."
+      },
+      {
+        "id": "q2-3",
+        "question": "A 'Mission Statement' typically answers which question?",
+        "options": ["What do we want to become in 20 years?", "What is our reason for being today?", "What are our specific profit targets for this year?", "How do we beat our top competitor?"],
+        "answer": 1,
+        "explanation": "A mission statement defines the company's core purpose and current business focus."
+      },
+      {
+        "id": "q2-4",
+        "question": "A 'Vision Statement' is primarily:",
+        "options": ["Internal and short-term", "External and operational", "Future-oriented and aspirational", "Focused on current products"],
+        "answer": 2,
+        "explanation": "A vision statement describes what the organization hopes to become in the future."
+      },
+      {
+        "id": "q2-5",
+        "question": "The 'M' in SMART goals stands for:",
+        "options": ["Motivational", "Manageable", "Measurable", "Mission-aligned"],
+        "answer": 2,
+        "explanation": "Measurable means there is a clear metric to track progress toward the goal."
+      },
+      {
+        "id": "q2-6",
+        "question": "Which of Michael Porter's Generic Strategies involves targeting a narrow market segment with a low-cost approach?",
+        "options": ["Cost Leadership", "Differentiation", "Cost Focus", "Differentiation Focus"],
+        "answer": 2,
+        "explanation": "Cost Focus targets a specific niche with a cost-advantaged strategy."
+      },
+      {
+        "id": "q2-7",
+        "question": "Which of the following is an example of an internal factor in a SWOT analysis?",
+        "options": ["New government regulations", "A competitor's price drop", "The company's proprietary technology", "A change in consumer trends"],
+        "answer": 2,
+        "explanation": "Proprietary technology is an internal strength of the organization."
+      },
+      {
+        "id": "q2-8",
+        "question": "Contingency planning is best described as:",
+        "options": ["The primary long-term plan", "A plan for when things go wrong ('Plan B')", "A plan for the best-case scenario", "A plan for employee vacations"],
+        "answer": 1,
+        "explanation": "Contingency planning involves developing alternative courses of action for unexpected events."
+      },
+      {
+        "id": "q2-9",
+        "question": "Which step comes first in the strategic management process?",
+        "options": ["Strategy implementation", "Strategy formulation", "Environmental scanning", "Strategy evaluation"],
+        "answer": 2,
+        "explanation": "Environmental scanning (internal and external analysis) is the foundation of the strategic process."
+      },
+      {
+        "id": "q2-10",
+        "question": "A company decides to focus on 'Differentiation' as its primary strategy. What is its main goal?",
+        "options": ["To have the lowest prices in the market", "To offer unique products that consumers perceive as more valuable", "To target only one specific city", "To eliminate all marketing costs"],
+        "answer": 1,
+        "explanation": "Differentiation aims to create unique value for which customers are willing to pay a premium."
+      },
+      {
+        "id": "q2-11",
+        "question": "The 'Boston Consulting Group (BCG) Matrix' classifies products based on:",
+        "options": ["Price and Quality", "Market Growth and Market Share", "Employee Satisfaction and Revenue", "Risk and Reward"],
+        "answer": 1,
+        "explanation": "The BCG Matrix uses market growth rate and relative market share to categorize business units (Stars, Cash Cows, Dogs, Question Marks)."
+      },
+      {
+        "id": "q2-12",
+        "question": "A 'Cash Cow' in the BCG Matrix is characterized by:",
+        "options": ["High growth, high share", "Low growth, high share", "High growth, low share", "Low growth, low share"],
+        "answer": 1,
+        "explanation": "Cash Cows generate more cash than they consume, typically in mature, low-growth markets where they have high share."
+      },
+      {
+        "id": "q2-13",
+        "question": "Benchmarking is the process of:",
+        "options": ["Setting furniture in the office", "Comparing your business processes and performance metrics to industry best practices", "Firing the bottom 10% of workers", "Calculating the average salary"],
+        "answer": 1,
+        "explanation": "Benchmarking involves looking outside the firm to find superior methods and adopting them."
+      },
+      {
+        "id": "q2-14",
+        "question": "Which of Porter's Five Forces deals with how easily customers can switch to a competitor?",
+        "options": ["Threat of New Entrants", "Bargaining Power of Suppliers", "Bargaining Power of Buyers", "Intensity of Rivalry"],
+        "answer": 2,
+        "explanation": "The power of buyers increases when they have many choices and low switching costs."
+      },
+      {
+        "id": "q2-15",
+        "question": "A 'Barriers to Entry' example in the Five Forces model would be:",
+        "options": ["High capital requirements", "A sudden drop in demand", "Low supplier loyalty", "High employee turnover"],
+        "answer": 0,
+        "explanation": "High capital requirements make it difficult for new competitors to enter the market."
+      },
+      {
+        "id": "q2-16",
+        "question": "Scenario planning differs from traditional forecasting because:",
+        "options": ["It uses more math", "It considers multiple possible futures rather than one single prediction", "It only looks at the past", "It is done by lower-level employees"],
+        "answer": 1,
+        "explanation": "Scenario planning prepares managers for different potential environments."
+      },
+      {
+        "id": "q2-17",
+        "question": "The 'Experience Curve' suggests that:",
+        "options": ["Older employees are always better", "Costs decrease as cumulative volume of production increases", "Management becomes harder over time", "New companies have an advantage"],
+        "answer": 1,
+        "explanation": "As a company gains experience producing a product, it finds ways to reduce costs."
+      },
+      {
+        "id": "q2-18",
+        "question": "Vertical Integration involves:",
+        "options": ["Merging with a direct competitor", "Gaining control over suppliers or distributors", "Expanding into a new country", "Hiring more managers"],
+        "answer": 1,
+        "explanation": "Vertical integration can be backward (suppliers) or forward (distributors)."
+      },
+      {
+        "id": "q2-19",
+        "question": "A 'Core Competency' is defined as:",
+        "options": ["Any skill an employee has", "A unique strength that is difficult for competitors to copy", "The ability to use Microsoft Excel", "The minimum requirement to stay in business"],
+        "answer": 1,
+        "explanation": "Core competencies provide a sustainable competitive advantage."
+      },
+      {
+        "id": "q2-20",
+        "question": "Strategy implementation is often called the ________ stage of management.",
+        "options": ["Thinking", "Doing", "Checking", "Visualizing"],
+        "answer": 1,
+        "explanation": "Implementation is the execution phase where plans are put into action."
+      }
+    ]
+  },
+  {
+    "date": "2026-05-13",
+    "day": 3,
+    "title": "Organizational Structure & Design",
+    "difficulty": "Medium",
+    "topics": [
+      {
+        "id": "3-1",
+        "title": "Organizational Structures",
+        "studyTime": "30 min",
+        "description": "Common structures include Functional (by department), Divisional (by product/region), Matrix (dual reporting), and Flat (minimal levels). The choice depends on size, strategy, and environment."
+      },
+      {
+        "id": "3-2",
+        "title": "Delegation",
+        "studyTime": "20 min",
+        "description": "The assignment of authority to another person to carry out specific activities. It involves Responsibility (the obligation), Authority (the right), and Accountability (the answerability)."
+      },
+      {
+        "id": "3-3",
+        "title": "Centralization vs Decentralization",
+        "studyTime": "20 min",
+        "description": "Centralization is when decision-making authority is concentrated at the top. Decentralization pushes authority down to lower levels. Trends favor decentralization for faster response times."
+      },
+      {
+        "id": "3-4",
+        "title": "Chain of Command",
+        "studyTime": "15 min",
+        "description": "The line of authority extending from upper levels to the lowest levels, clarifying who reports to whom. Modern organizations are shortening this chain."
+      },
+      {
+        "id": "3-5",
+        "title": "Formalization",
+        "studyTime": "15 min",
+        "description": "The degree to which jobs within the organization are standardized and the extent to which employee behavior is guided by rules and procedures."
+      }
+    ],
+    "roleplayConnection": "In role plays involving organizational change, you might need to suggest a change in structure. If a company is growing too fast and the CEO is overwhelmed, suggest DECENTRALIZATION or a DIVISIONAL structure. Explain how this reduces the CEO's 'Span of Control' and empowers local managers to make faster decisions.",
+    "mcqs": [
+      {
+        "id": "q3-1",
+        "question": "Which organizational structure groups employees based on their skills and expertise (e.g., Marketing, Finance, HR)?",
+        "options": ["Divisional", "Functional", "Matrix", "Network"],
+        "answer": 1,
+        "explanation": "A functional structure is based on the specialized activities of the business."
+      },
+      {
+        "id": "q3-2",
+        "question": "In a Matrix structure, an employee usually reports to:",
+        "options": ["One manager", "Two managers", "Three managers", "No managers"],
+        "answer": 1,
+        "explanation": "Matrix structures involve reporting to both a functional manager and a project/product manager."
+      },
+      {
+        "id": "q3-3",
+        "question": "Authority is defined as:",
+        "options": ["The obligation to perform a task", "The right to give orders and expect them to be obeyed", "The ability to influence others without formal power", "The total number of years worked"],
+        "answer": 1,
+        "explanation": "Authority is the formal power granted by the organization."
+      },
+      {
+        "id": "q3-4",
+        "question": "Accountability means that a person is:",
+        "options": ["Responsible for doing the work", "Answerable for the results of a task", "Able to fire others", "In charge of the accounting department"],
+        "answer": 1,
+        "explanation": "While responsibility can be delegated, ultimate accountability usually remains with the delegator or is shared."
+      },
+      {
+        "id": "q3-5",
+        "question": "A 'Flat' organization is characterized by:",
+        "options": ["Many levels of management", "Few or no levels of management", "A very tall hierarchy", "Strict rules and procedures"],
+        "answer": 1,
+        "explanation": "Flat organizations have a wide span of control and fewer management layers."
+      },
+      {
+        "id": "q3-6",
+        "question": "Which factor would favor a CENTRALIZED decision-making structure?",
+        "options": ["The company is very large", "The environment is stable", "Managers are highly skilled and want autonomy", "The company is geographically dispersed"],
+        "answer": 1,
+        "explanation": "Centralization is more effective in stable environments where top-level control is efficient."
+      },
+      {
+        "id": "q3-7",
+        "question": "The 'Scalar Principle' refers to:",
+        "options": ["The need for a clear, unbroken line of authority from top to bottom", "The method of weighing products", "The process of scaling a business", "The salary scale for employees"],
+        "answer": 0,
+        "explanation": "This is another name for the Scalar Chain or Chain of Command."
+      },
+      {
+        "id": "q3-8",
+        "question": "Which type of structure is organized around specific geographic areas or customer groups?",
+        "options": ["Functional", "Divisional", "Bureaucratic", "Simple"],
+        "answer": 1,
+        "explanation": "Divisional structures can be based on products, geography, or customers."
+      },
+      {
+        "id": "q3-9",
+        "question": "Formalization is likely to be HIGHEST in which type of organization?",
+        "options": ["A tech startup", "A creative advertising agency", "A large government agency", "A local family restaurant"],
+        "answer": 2,
+        "explanation": "Bureaucracies and large government entities rely heavily on standardized rules and procedures."
+      },
+      {
+        "id": "q3-10",
+        "question": "Span of Management is also known as:",
+        "options": ["Chain of Command", "Span of Control", "Unity of Command", "Division of Labor"],
+        "answer": 1,
+        "explanation": "These terms are used interchangeably to describe how many subordinates report to a manager."
+      },
+      {
+        "id": "q3-11",
+        "question": "Which of these is a disadvantage of a FUNCTIONAL structure?",
+        "options": ["High resource efficiency", "Deep technical expertise", "Poor communication across departments ('Silos')", "Clear career paths"],
+        "answer": 2,
+        "explanation": "Functional departments can become isolated and fail to see the big picture."
+      },
+      {
+        "id": "q3-12",
+        "question": "A 'Virtual' organization is one that:",
+        "options": ["Only exists in a video game", "Outsources most of its major business functions", "Has no employees", "Uses only robots"],
+        "answer": 1,
+        "explanation": "A virtual (or network) organization maintains a small core and contracts out everything else."
+      },
+      {
+        "id": "q3-13",
+        "question": "When a manager delegates a task, they also delegate:",
+        "options": ["Accountability", "Responsibility", "Their entire job", "The blame for failure"],
+        "answer": 1,
+        "explanation": "Responsibility is given to the subordinate, but the manager remains accountable."
+      },
+      {
+        "id": "q3-14",
+        "question": "Which of the following is an example of 'Staff' authority?",
+        "options": ["A sales manager telling a salesperson to make more calls", "An HR manager advising a production manager on hiring laws", "A CEO ordering an expansion", "A supervisor assigning shifts"],
+        "answer": 1,
+        "explanation": "Staff authority is advisory and supportive, whereas line authority is the direct right to command."
+      },
+      {
+        "id": "q3-15",
+        "question": "Mechanistic organizations are characterized by:",
+        "options": ["High formalization and centralization", "Low formalization and decentralization", "Cross-functional teams", "Free flow of information"],
+        "answer": 0,
+        "explanation": "Mechanistic structures are rigid and bureaucratic, suitable for stable environments."
+      },
+      {
+        "id": "q3-16",
+        "question": "Organic organizations are best suited for:",
+        "options": ["Mass production of standardized goods", "Rapidly changing, unpredictable environments", "Military operations", "Routine administrative tasks"],
+        "answer": 1,
+        "explanation": "Organic structures are flexible and adaptable, often found in high-tech or creative industries."
+      },
+      {
+        "id": "q3-17",
+        "question": "Work Specialization is also known as:",
+        "options": ["Unity of Direction", "Division of Labor", "Scalar Chain", "Equity"],
+        "answer": 1,
+        "explanation": "This involves breaking down tasks into small, repetitive steps."
+      },
+      {
+        "id": "q3-18",
+        "question": "The primary goal of a Matrix structure is to:",
+        "options": ["Reduce costs", "Increase formalization", "Balance functional expertise with project-specific needs", "Simplify the chain of command"],
+        "answer": 2,
+        "explanation": "Matrix structures aim to get the best of both functional and divisional worlds."
+      },
+      {
+        "id": "q3-19",
+        "question": "A 'Tall' organizational structure has:",
+        "options": ["Narrow spans of control and many levels", "Wide spans of control and few levels", "High decentralization", "No rules"],
+        "answer": 0,
+        "explanation": "Tall hierarchies have many layers, which can slow down communication."
+      },
+      {
+        "id": "q3-20",
+        "question": "Bureaucracy, as described by Max Weber, is based on:",
+        "options": ["Personal friendships", "Rational-legal authority and standardized rules", "The whim of the leader", "Family inheritance"],
+        "answer": 1,
+        "explanation": "Weber's model of bureaucracy emphasizes logic, order, and legitimate authority."
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "day": 4,
+    "title": "Human Resource Management",
+    "difficulty": "Medium",
+    "topics": [
+      {
+        "id": "4-1",
+        "title": "Staffing & Workforce Planning",
+        "studyTime": "25 min",
+        "description": "The process of determining the number and types of employees needed and ensuring they are in the right place at the right time. It starts with job analysis."
+      },
+      {
+        "id": "4-2",
+        "title": "Recruiting & Hiring",
+        "studyTime": "25 min",
+        "description": "Recruiting is attracting a pool of qualified candidates. Hiring involves selecting the best candidate through interviews, tests, and background checks."
+      },
+      {
+        "id": "4-3",
+        "title": "Employee Onboarding",
+        "studyTime": "20 min",
+        "description": "The process of integrating new employees into the organization and its culture, providing them with the tools and information needed to succeed."
+      },
+      {
+        "id": "4-4",
+        "title": "Performance Evaluation",
+        "studyTime": "20 min",
+        "description": "The systematic assessment of an employee's performance based on predetermined standards. Methods include 360-degree feedback, MBO, and graphic rating scales."
+      },
+      {
+        "id": "4-5",
+        "title": "Compensation & Benefits",
+        "studyTime": "10 min",
+        "description": "The total reward package given to employees, including base pay, incentives (bonuses), and benefits (insurance, 401k)."
+      }
+    ],
+    "roleplayConnection": "HR role plays often focus on solving low morale or high turnover. You must address the ROOT CAUSE. If turnover is high, look at the STAFFING process—are we hiring the wrong people? Or is the PERFORMANCE EVALUATION unfair? Propose a solution like 'Implementing 360-degree feedback' to increase transparency and fairness.",
+    "mcqs": [
+      {
+        "id": "q4-1",
+        "question": "What is the first step in the HR planning process?",
+        "options": ["Recruiting candidates", "Job Analysis", "Performance Appraisal", "Orientation"],
+        "answer": 1,
+        "explanation": "Job analysis (determining the duties and requirements of a job) is foundational to all HR activities."
+      },
+      {
+        "id": "q4-2",
+        "question": "A 'Job Description' focuses on ________, while a 'Job Specification' focuses on ________.",
+        "options": ["Salary; Benefits", "The person; The tasks", "The tasks; The person's qualifications", "Internal hiring; External hiring"],
+        "answer": 2,
+        "explanation": "Description = what the job is. Specification = what the person needs (skills, degree, etc.)."
+      },
+      {
+        "id": "q4-3",
+        "question": "Which of the following is an ADVANTAGE of internal recruiting?",
+        "options": ["Brings in new ideas", "Reduces training time and costs", "Increases diversity", "Provides a larger pool of candidates"],
+        "answer": 1,
+        "explanation": "Internal candidates already know the culture and processes."
+      },
+      {
+        "id": "q4-4",
+        "question": "An 'Orientation' program for new hires is primarily designed to:",
+        "options": ["Fire bad employees early", "Reduce initial anxiety and socialize the employee", "Calculate their first paycheck", "Interview them one last time"],
+        "answer": 1,
+        "explanation": "Orientation (or onboarding) helps new employees transition into the company."
+      },
+      {
+        "id": "q4-5",
+        "question": "Which performance appraisal method involves getting feedback from subordinates, peers, and supervisors?",
+        "options": ["Graphic Rating Scale", "Critical Incident Method", "360-degree Feedback", "Forced Distribution"],
+        "answer": 2,
+        "explanation": "360-degree feedback provides a well-rounded view of performance."
+      },
+      {
+        "id": "q4-6",
+        "question": "The 'Halo Effect' in interviewing occurs when:",
+        "options": ["The interviewer likes everyone", "One positive characteristic causes the interviewer to overlook negative ones", "The candidate wears a halo", "The interview is conducted in a church"],
+        "answer": 1,
+        "explanation": "This is a common bias where a single trait colors the entire evaluation."
+      },
+      {
+        "id": "q4-7",
+        "question": "Which law prohibits discrimination based on race, color, religion, sex, or national origin?",
+        "options": ["Fair Labor Standards Act", "Title VII of the Civil Rights Act", "Americans with Disabilities Act", "Occupational Safety and Health Act"],
+        "answer": 1,
+        "explanation": "Title VII (1964) is the primary anti-discrimination law in employment."
+      },
+      {
+        "id": "q4-8",
+        "question": "The 'Fair Labor Standards Act' (FLSA) primarily regulates:",
+        "options": ["Workplace safety", "Minimum wage and overtime pay", "Health insurance", "Union activities"],
+        "answer": 1,
+        "explanation": "FLSA established the minimum wage and the 40-hour work week."
+      },
+      {
+        "id": "q4-9",
+        "question": "A 'Structured Interview' is one where:",
+        "options": ["The candidate can ask anything", "The interviewer asks the same set of predetermined questions to all candidates", "The interview happens at a construction site", "There are no rules"],
+        "answer": 1,
+        "explanation": "Structured interviews increase fairness and allow for better comparison between candidates."
+      },
+      {
+        "id": "q4-10",
+        "question": "What is 'Attrition'?",
+        "options": ["The process of hiring new people", "The natural reduction of the workforce through retirement or resignation", "The act of firing an employee", "A type of employee training"],
+        "answer": 1,
+        "explanation": "Attrition happens when people leave and are not immediately replaced."
+      },
+      {
+        "id": "q4-11",
+        "question": "Which type of training happens while the employee is performing their actual job duties?",
+        "options": ["Vestibule training", "On-the-job training (OJT)", "Classroom training", "Simulation"],
+        "answer": 1,
+        "explanation": "OJT is the most common form of training, happening in the work environment."
+      },
+      {
+        "id": "q4-12",
+        "question": "Collective Bargaining is a process between:",
+        "options": ["Two different companies", "A manager and one employee", "Management and a labor union", "The company and the government"],
+        "answer": 2,
+        "explanation": "Collective bargaining determines contract terms for unionized workers."
+      },
+      {
+        "id": "q4-13",
+        "question": "Which of these is a 'Non-exempt' employee under the FLSA?",
+        "options": ["A CEO", "A high-level manager", "An employee entitled to overtime pay", "A salaried professional"],
+        "answer": 2,
+        "explanation": "Non-exempt employees must be paid overtime (1.5x) for hours worked over 40."
+      },
+      {
+        "id": "q4-14",
+        "question": "A 'Skilled-based' pay system rewards employees for:",
+        "options": ["Their job title", "The number of hours they work", "The variety and depth of skills they possess", "Their age"],
+        "answer": 2,
+        "explanation": "This encourages employees to learn more and become more versatile."
+      },
+      {
+        "id": "q4-15",
+        "question": "What is 'Glass Ceiling'?",
+        "options": ["An office with a skylight", "An invisible barrier that prevents women and minorities from reaching top management", "A type of modern architecture", "The limit on how much an employee can be paid"],
+        "answer": 1,
+        "explanation": "It refers to the subtle, often systemic barriers to advancement."
+      },
+      {
+        "id": "q4-16",
+        "question": "Adverse Impact occurs when:",
+        "options": ["A manager hits an employee", "An employment practice that appears neutral has a discriminatory effect on a protected group", "The company loses money", "The weather is bad"],
+        "answer": 1,
+        "explanation": "This is also known as 'disparate impact' and is illegal under civil rights laws."
+      },
+      {
+        "id": "q4-17",
+        "question": "Which of these is a MANDATORY benefit in the US?",
+        "options": ["Paid vacation", "Health insurance (for small firms)", "Social Security", "Retirement plans"],
+        "answer": 2,
+        "explanation": "Social Security and workers' compensation are mandatory; many others are voluntary or regulated by firm size."
+      },
+      {
+        "id": "q4-18",
+        "question": "What is the purpose of a 'Probationary Period'?",
+        "options": ["To give employees a vacation", "To evaluate a new hire's fit and performance before making the position permanent", "To pay employees less", "To train them for a different job"],
+        "answer": 1,
+        "explanation": "Typically 90 days, this allows both parties to see if the match is right."
+      },
+      {
+        "id": "q4-19",
+        "question": "Hostile Work Environment is a type of:",
+        "options": ["Training", "Sexual Harassment", "Recruiting method", "Financial audit"],
+        "answer": 1,
+        "explanation": "It involves unwelcome conduct that makes the workplace intimidating or offensive."
+      },
+      {
+        "id": "q4-20",
+        "question": "Human Capital refers to:",
+        "options": ["The money in the bank", "The value of the employees' skills, knowledge, and experience", "The factory equipment", "The company's stock price"],
+        "answer": 1,
+        "explanation": "People are considered an asset with measurable value."
+      }
+    ]
+  },
+  {
+    "date": "2026-05-15",
+    "day": 5,
+    "title": "Leadership & Motivation",
+    "difficulty": "Medium",
+    "topics": [
+      {
+        "id": "5-1",
+        "title": "Leadership Styles",
+        "studyTime": "30 min",
+        "description": "Common styles include Autocratic (leader decides), Democratic (group decides), and Laissez-faire (leader is hands-off). Modern theories include Transformational (vision-based) and Situational leadership."
+      },
+      {
+        "id": "5-2",
+        "title": "Motivation Theories",
+        "studyTime": "25 min",
+        "description": "Includes Maslow's Hierarchy (needs), Herzberg's Two-Factor (hygiene vs. motivators), and Vroom's Expectancy theory. Understanding what drives people is key to management."
+      },
+      {
+        "id": "5-3",
+        "title": "Communication Methods",
+        "studyTime": "20 min",
+        "description": "Effective communication involves the sender, message, channel, receiver, and feedback. Barriers include noise, selective perception, and emotional disconnects."
+      },
+      {
+        "id": "5-4",
+        "title": "Team Management",
+        "studyTime": "15 min",
+        "description": "Teams go through stages: Forming, Storming, Norming, Performing, and Adjourning (Tuckman's Model). Managers must guide the team through these stages."
+      },
+      {
+        "id": "5-5",
+        "title": "Conflict Resolution",
+        "studyTime": "10 min",
+        "description": "Techniques include Competing, Collaborating, Avoiding, Accommodating, and Compromising. The goal is often win-win solutions."
+      }
+    ],
+    "roleplayConnection": "Leadership role plays often put you in a 'Conflict' scenario. Use the SITUATIONAL leadership model in your answer. Say, 'Because the employees are highly skilled but lack motivation, I will use a PARTICIPATIVE style to involve them in decision-making and rebuild their commitment.' This proves you can adapt your style to the specific needs of the team.",
+    "mcqs": [
+      {
+        "id": "q5-1",
+        "question": "Which leadership style involves the leader making all decisions without consulting subordinates?",
+        "options": ["Democratic", "Autocratic", "Laissez-faire", "Transformational"],
+        "answer": 1,
+        "explanation": "Autocratic (or authoritarian) leaders retain all power and decision-making authority."
+      },
+      {
+        "id": "q5-2",
+        "question": "According to Maslow's Hierarchy of Needs, which need is at the VERY bottom (most basic)?",
+        "options": ["Safety", "Social", "Physiological", "Self-actualization"],
+        "answer": 2,
+        "explanation": "Physiological needs (food, water, shelter) must be met before any other needs."
+      },
+      {
+        "id": "q5-3",
+        "question": "In Herzberg's Two-Factor Theory, which of the following is a 'Hygiene' factor?",
+        "options": ["Recognition", "Achievement", "Working Conditions", "The work itself"],
+        "answer": 2,
+        "explanation": "Hygiene factors (like pay and conditions) don't motivate if present, but cause dissatisfaction if missing."
+      },
+      {
+        "id": "q5-4",
+        "question": "Transformational leaders are known for:",
+        "options": ["Strictly following rules", "Focusing on short-term tasks", "Inspiring followers to transcend self-interest for the good of the organization", "Avoiding all contact with employees"],
+        "answer": 2,
+        "explanation": "Transformational leadership is about vision and large-scale change."
+      },
+      {
+        "id": "q5-5",
+        "question": "Tuckman's model of team development starts with which stage?",
+        "options": ["Storming", "Norming", "Forming", "Performing"],
+        "answer": 2,
+        "explanation": "Forming is the initial stage where team members get to know each other."
+      },
+      {
+        "id": "q5-6",
+        "question": "Expectancy Theory suggests that motivation depends on:",
+        "options": ["The size of the office", "The belief that effort leads to performance, and performance leads to a desired reward", "The person's age", "The company's history"],
+        "answer": 1,
+        "explanation": "Vroom's theory focuses on the mental process regarding choice and rewards."
+      },
+      {
+        "id": "q5-7",
+        "question": "Which communication barrier involves the receiver hearing only what they want to hear based on their own needs and experience?",
+        "options": ["Filtering", "Selective Perception", "Information Overload", "Jargon"],
+        "answer": 1,
+        "explanation": "Selective perception filters information through a personal lens."
+      },
+      {
+        "id": "q5-8",
+        "question": "A 'Laissez-faire' leader:",
+        "options": ["Micromanages every task", "Provides little or no direction and gives followers as much freedom as possible", "Constantly holds meetings", "Always makes the final decision"],
+        "answer": 1,
+        "explanation": "This 'let it be' style works well with highly skilled, self-motivated teams."
+      },
+      {
+        "id": "q5-9",
+        "question": "According to McGregor, 'Theory X' managers believe that employees:",
+        "options": ["Are naturally hardworking", "Dislike work and must be coerced to perform", "Seek responsibility", "Are highly creative"],
+        "answer": 1,
+        "explanation": "Theory X is a pessimistic view of human nature."
+      },
+      {
+        "id": "q5-10",
+        "question": "Equity Theory focuses on:",
+        "options": ["How much money the company has", "The fairness of the rewards received compared to the efforts and rewards of others", "Giving everyone exactly the same pay", "Investing in the stock market"],
+        "answer": 1,
+        "explanation": "Employees compare their input/output ratio to that of 'referent' others."
+      },
+      {
+        "id": "q5-11",
+        "question": "Which conflict resolution style involves both parties giving up something to reach a solution?",
+        "options": ["Competing", "Avoiding", "Compromising", "Accommodating"],
+        "answer": 2,
+        "explanation": "Compromise is a middle-ground where no one wins entirely but progress is made."
+      },
+      {
+        "id": "q5-12",
+        "question": "Non-verbal communication includes:",
+        "options": ["Writing an email", "Speaking on the phone", "Body language and facial expressions", "Reading a report"],
+        "answer": 2,
+        "explanation": "Non-verbal cues often convey more meaning than words themselves."
+      },
+      {
+        "id": "q5-13",
+        "question": "A 'Servant Leader' focuses primarily on:",
+        "options": ["Their own career", "The growth and well-being of people and the communities to which they belong", "Cutting costs", "Increasing their span of control"],
+        "answer": 1,
+        "explanation": "Servant leadership prioritizes the needs of others."
+      },
+      {
+        "id": "q5-14",
+        "question": "Groupthink is a phenomenon where:",
+        "options": ["Groups make better decisions than individuals", "The desire for harmony in a group results in irrational or dysfunctional decision-making", "Everyone argues constantly", "The group uses computers to think"],
+        "answer": 1,
+        "explanation": "Groupthink discourages dissenting opinions and critical thinking."
+      },
+      {
+        "id": "q5-15",
+        "question": "Intrinsic motivation comes from:",
+        "options": ["Money", "Fear of punishment", "Personal satisfaction and interest in the work itself", "A promotion"],
+        "answer": 2,
+        "explanation": "Intrinsic motivation is internal to the individual."
+      },
+      {
+        "id": "q5-16",
+        "question": "Which of these is an example of an EXTRINSIC reward?",
+        "options": ["A sense of accomplishment", "Learning a new skill", "A performance bonus", "Enjoying a challenge"],
+        "answer": 2,
+        "explanation": "Extrinsic rewards are external (tangible) rewards given by others."
+      },
+      {
+        "id": "q5-17",
+        "question": "Active Listening involves:",
+        "options": ["Interrupting to show you understand", "Thinking about your response while the other person talks", "Providing verbal and non-verbal feedback to show full engagement", "Recording the conversation"],
+        "answer": 2,
+        "explanation": "Active listening requires effort to truly understand the sender's message."
+      },
+      {
+        "id": "q5-18",
+        "question": "The 'Grapevine' in an organization is:",
+        "options": ["A tool for growing grapes", "The informal communication network", "The official newsletter", "The chain of command"],
+        "answer": 1,
+        "explanation": "Informal communication is fast but can be prone to rumors."
+      },
+      {
+        "id": "q5-19",
+        "question": "Which leadership theory suggests that there is no 'one best way' to lead and that the style should depend on the situation?",
+        "options": ["Trait Theory", "Behavioral Theory", "Contingency/Situational Theory", "Great Man Theory"],
+        "answer": 2,
+        "explanation": "Fiedler's Contingency Model and Hersey-Blanchard Situational Leadership are key examples."
+      },
+      {
+        "id": "q5-20",
+        "question": "Social Loafing is the tendency for individuals to:",
+        "options": ["Work harder in a group", "Put in less effort when working in a group compared to working alone", "Socialize too much at lunch", "Bake bread for their coworkers"],
+        "answer": 1,
+        "explanation": "Social loafing occurs when individual accountability is low in a group setting."
+      }
+    ]
+  },
+  {
+    "date": "2026-05-16",
+    "day": 6,
+    "title": "Controlling & Business Ethics",
+    "difficulty": "Medium",
+    "topics": [
+      { "id": "6-1", "title": "Controlling", "studyTime": "25 min", "description": "The process of monitoring performance, comparing it to goals, and taking corrective action." },
+      { "id": "6-2", "title": "KPIs", "studyTime": "15 min", "description": "Key Performance Indicators are quantifiable measures used to evaluate the success of an organization." },
+      { "id": "6-3", "title": "Benchmarking", "studyTime": "20 min", "description": "Comparing business processes to industry bests." },
+      { "id": "6-4", "title": "Ethics", "studyTime": "15 min", "description": "Moral principles that govern business behavior." },
+      { "id": "6-5", "title": "CSR", "studyTime": "15 min", "description": "Corporate Social Responsibility and its impact on brand and society." }
+    ],
+    "roleplayConnection": "Address how monitoring systems ensure ethical standards are met.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-05-17",
+    "day": 7,
+    "title": "Weekly Review & Cases",
+    "difficulty": "Hard",
+    "topics": [
+      { "id": "7-1", "title": "Weekly review", "studyTime": "45 min", "description": "Consolidation of the first week's management concepts." },
+      { "id": "7-2", "title": "Mixed concepts", "studyTime": "30 min", "description": "Cross-domain application of management theory." },
+      { "id": "7-3", "title": "Integrated management cases", "studyTime": "45 min", "description": "Complex role play scenarios involving multiple management levels." }
+    ],
+    "roleplayConnection": "Practice synthesizing multiple concepts into one cohesive presentation.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-05-18",
+    "day": 8,
+    "title": "Human Resources & Workforce",
+    "difficulty": "Medium",
+    "topics": [
+      { "id": "8-1", "title": "Human resources management", "studyTime": "30 min", "description": "Strategic approach to managing an organization's most valued assets." },
+      { "id": "8-2", "title": "Workforce planning", "studyTime": "25 min", "description": "Aligning the needs and priorities of the organization with those of its workforce." },
+      { "id": "8-3", "title": "Compensation", "studyTime": "20 min", "description": "Direct and indirect rewards for labor." },
+      { "id": "8-4", "title": "Retention", "studyTime": "20 min", "description": "Strategies to keep top talent within the organization." }
+    ],
+    "roleplayConnection": "How to handle labor shortages and employee turnover in a competitive market.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-05-19",
+    "day": 9,
+    "title": "Project Management Frameworks",
+    "difficulty": "Medium",
+    "topics": [
+      { "id": "9-1", "title": "Project management", "studyTime": "30 min", "description": "Initiating, planning, executing, controlling, and closing projects." },
+      { "id": "9-2", "title": "Agile", "studyTime": "20 min", "description": "Iterative approach to project management and software development." },
+      { "id": "9-3", "title": "Waterfall", "studyTime": "15 min", "description": "Linear, sequential project management model." },
+      { "id": "9-4", "title": "Gantt charts", "studyTime": "15 min", "description": "Visual representation of a project schedule." },
+      { "id": "9-5", "title": "Scope management", "studyTime": "20 min", "description": "Ensuring the project includes all work required, and only the work required." }
+    ],
+    "roleplayConnection": "Explain how you will track a project's timeline and deliverables to a judge.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-05-20",
+    "day": 10,
+    "title": "Information & Security",
+    "difficulty": "Hard",
+    "topics": [
+      { "id": "10-1", "title": "Information management", "studyTime": "25 min", "description": "Cycle of organizational activity: acquisition of info from sources, its distribution to those who need it, and its ultimate disposition." },
+      { "id": "10-2", "title": "Databases", "studyTime": "15 min", "description": "Structured sets of data held in computers." },
+      { "id": "10-3", "title": "Cybersecurity", "studyTime": "30 min", "description": "Protecting systems, networks, and programs from digital attacks." },
+      { "id": "10-4", "title": "Knowledge management", "studyTime": "20 min", "description": "Capturing, distributing, and effectively using knowledge." }
+    ],
+    "roleplayConnection": "Risk management regarding data breaches and info flow.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-05-21",
+    "day": 11,
+    "title": "CRM & Customer Value",
+    "difficulty": "Medium",
+    "topics": [
+      { "id": "11-1", "title": "Customer relationship management", "studyTime": "30 min", "description": "Strategies for managing interactions with current and potential customers." },
+      { "id": "11-2", "title": "Customer retention", "studyTime": "20 min", "description": "Ability of a company to retain its customers over a period of time." },
+      { "id": "11-3", "title": "Customer lifetime value", "studyTime": "20 min", "description": "Prediction of the net profit attributed to the entire future relationship with a customer." },
+      { "id": "11-4", "title": "Churn", "studyTime": "15 min", "description": "The rate at which customers stop doing business with an entity." }
+    ],
+    "roleplayConnection": "How to increase customer loyalty in a saturated market.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-05-22",
+    "day": 12,
+    "title": "Supply Chain & Logistics",
+    "difficulty": "Hard",
+    "topics": [
+      { "id": "12-1", "title": "Supply chain management", "studyTime": "30 min", "description": "Management of the flow of goods and services." },
+      { "id": "12-2", "title": "Logistics", "studyTime": "20 min", "description": "Detailed coordination of a complex operation involving many people, facilities, or supplies." },
+      { "id": "12-3", "title": "Inventory systems", "studyTime": "25 min", "description": "Processes to track levels of stock and materials." },
+      { "id": "12-4", "title": "Procurement", "studyTime": "20 min", "description": "The act of obtaining goods or services, typically for business purposes." }
+    ],
+    "roleplayConnection": "Solving supply chain bottlenecks in an international context.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-05-23",
+    "day": 13,
+    "title": "Quality & Process Improvement",
+    "difficulty": "Hard",
+    "topics": [
+      { "id": "13-1", "title": "Quality management", "studyTime": "30 min", "description": "Act of overseeing all activities and tasks needed to maintain a desired level of excellence." },
+      { "id": "13-2", "title": "TQM", "studyTime": "20 min", "description": "Total Quality Management approach to long-term success through customer satisfaction." },
+      { "id": "13-3", "title": "Six Sigma", "studyTime": "25 min", "description": "Set of techniques and tools for process improvement." },
+      { "id": "13-4", "title": "PDCA cycle", "studyTime": "15 min", "description": "Plan-Do-Check-Act iterative management method." }
+    ],
+    "roleplayConnection": "Implementing quality control measures to reduce waste.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-05-24",
+    "day": 14,
+    "title": "Risk & Change Management",
+    "difficulty": "Medium",
+    "topics": [
+      { "id": "14-1", "title": "Risk management", "studyTime": "30 min", "description": "Forecasting and evaluation of financial risks together with the identification of procedures to avoid or minimize their impact." },
+      { "id": "14-2", "title": "Crisis response", "studyTime": "20 min", "description": "Managing the consequences of an event that has occurred." },
+      { "id": "14-3", "title": "Change management", "studyTime": "25 min", "description": "Approach to transitioning individuals, teams, and organizations using methods intended to re-direct the use of resources." },
+      { "id": "14-4", "title": "Resistance to change", "studyTime": "20 min", "description": "Addressing employee pushback during organizational transitions." }
+    ],
+    "roleplayConnection": "Managing staff morale during a merger or acquisition.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-05-25",
+    "day": 15,
+    "title": "Financial Fundamentals I",
+    "difficulty": "Hard",
+    "topics": [
+      { "id": "15-1", "title": "Balance sheets", "studyTime": "30 min", "description": "Statement of assets, liabilities, and capital of a business at a particular point in time." },
+      { "id": "15-2", "title": "Assets", "studyTime": "15 min", "description": "Resource with economic value that an individual, corporation, or country owns or controls." },
+      { "id": "15-3", "title": "Liabilities", "studyTime": "15 min", "description": "Company's financial debt or obligations that arise during its business operations." },
+      { "id": "15-4", "title": "Equity", "studyTime": "15 min", "description": "Value of the shares issued by a company." }
+    ],
+    "roleplayConnection": "Evaluating a company's net worth and financial stability.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-05-26",
+    "day": 16,
+    "title": "Financial Fundamentals II",
+    "difficulty": "Medium",
+    "topics": [
+      { "id": "16-1", "title": "Income statements", "studyTime": "30 min", "description": "Financial statement that reports a company's financial performance over a specific accounting period." },
+      { "id": "16-2", "title": "Revenue", "studyTime": "15 min", "description": "Income that a business has from its normal business activities." },
+      { "id": "16-3", "title": "Expenses", "studyTime": "15 min", "description": "Money spent or cost incurred in an entity's efforts to generate revenue." },
+      { "id": "16-4", "title": "Net income", "studyTime": "15 min", "description": "Company's total earnings (or profit)." }
+    ],
+    "roleplayConnection": "Analyzing profitability and cost reduction strategies.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-05-27",
+    "day": 17,
+    "title": "Cash Flow Analysis",
+    "difficulty": "Hard",
+    "topics": [
+      { "id": "17-1", "title": "Cash flow statements", "studyTime": "30 min", "description": "Financial statement that shows how changes in balance sheet accounts and income affect cash and cash equivalents." },
+      { "id": "17-2", "title": "Operating activities", "studyTime": "20 min", "description": "Primary revenue-generating activities of an entity." },
+      { "id": "17-3", "title": "Investing activities", "studyTime": "20 min", "description": "Acquisition and disposal of long-term assets." },
+      { "id": "17-4", "title": "Financing activities", "studyTime": "20 min", "description": "Activities that result in changes in the size and composition of the contributed equity and borrowings." }
+    ],
+    "roleplayConnection": "Addressing liquidity crises and cash management.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-05-28",
+    "day": 18,
+    "title": "Budgeting & Forecasting",
+    "difficulty": "Medium",
+    "topics": [
+      { "id": "18-1", "title": "Budgeting", "studyTime": "30 min", "description": "Process of creating a plan to spend your money." },
+      { "id": "18-2", "title": "Forecasting", "studyTime": "25 min", "description": "Predicting future trends using past and present data." },
+      { "id": "18-3", "title": "Variance analysis", "studyTime": "25 min", "description": "Quantitative investigation of the difference between actual and planned behavior." }
+    ],
+    "roleplayConnection": "Explaining budget overruns to a board of directors.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-05-29",
+    "day": 19,
+    "title": "Financial Interpretation",
+    "difficulty": "Hard",
+    "topics": [
+      { "id": "19-1", "title": "Financial statement interpretation", "studyTime": "30 min", "description": "Reviewing financial statements to make informed decisions." },
+      { "id": "19-2", "title": "Liquidity ratios", "studyTime": "20 min", "description": "Measures of the company's ability to pay off its short-term debt." },
+      { "id": "19-3", "title": "Profitability ratios", "studyTime": "20 min", "description": "Measures of the company's ability to generate earnings relative to its revenue, operating costs, and other expenses." },
+      { "id": "19-4", "title": "Solvency ratios", "studyTime": "20 min", "description": "Measures of the company's ability to meet its long-term debts." }
+    ],
+    "roleplayConnection": "Using ratios to justify an investment or expansion.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-05-30",
+    "day": 20,
+    "title": "Operations & Efficiency",
+    "difficulty": "Medium",
+    "topics": [
+      { "id": "20-1", "title": "Operations management", "studyTime": "30 min", "description": "Administration of business practices to create the highest level of efficiency possible." },
+      { "id": "20-2", "title": "Capacity planning", "studyTime": "25 min", "description": "Process of determining the production capacity needed by an organization." },
+      { "id": "20-3", "title": "Efficiency", "studyTime": "20 min", "description": "Achieving maximum productivity with minimum wasted effort or expense." },
+      { "id": "20-4", "title": "Workflow optimization", "studyTime": "20 min", "description": "Improving an existing workflow by making it more efficient." }
+    ],
+    "roleplayConnection": "Improving factory output without increasing costs.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-05-31",
+    "day": 21,
+    "title": "Business Process Analysis",
+    "difficulty": "Hard",
+    "topics": [
+      { "id": "21-1", "title": "Business analysis", "studyTime": "30 min", "description": "Identifying business needs and determining solutions to business problems." },
+      { "id": "21-2", "title": "Root cause analysis", "studyTime": "25 min", "description": "Method of problem solving used for identifying the root causes of faults or problems." },
+      { "id": "21-3", "title": "Continuous improvement", "studyTime": "20 min", "description": "Ongoing effort to improve products, services, or processes." },
+      { "id": "21-4", "title": "Process mapping", "studyTime": "20 min", "description": "Workflow diagram to bring forth a clearer understanding of a process." }
+    ],
+    "roleplayConnection": "Diagnosing failure in a service delivery model.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-06-01",
+    "day": 22,
+    "title": "Performance Supply Chain",
+    "difficulty": "Medium",
+    "topics": [
+      { "id": "22-1", "title": "Supply chain impact", "studyTime": "30 min", "description": "How supply chain decisions affect the bottom line." },
+      { "id": "22-2", "title": "Bottlenecks", "studyTime": "20 min", "description": "Points of congestion in a production system." },
+      { "id": "22-3", "title": "Vendor management", "studyTime": "25 min", "description": "Enabling organizations to control costs, drive service excellence and mitigate risks." },
+      { "id": "22-4", "title": "JIT systems", "studyTime": "20 min", "description": "Just-in-Time inventory strategy." }
+    ],
+    "roleplayConnection": "Switching to JIT to save warehouse costs.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-06-02",
+    "day": 23,
+    "title": "Operations Review",
+    "difficulty": "Hard",
+    "topics": [
+      { "id": "23-1", "title": "Operations review", "studyTime": "45 min", "description": "Comprehensive review of weeks 3 and 4 operational topics." },
+      { "id": "23-2", "title": "Integrated operations cases", "studyTime": "45 min", "description": "Scenarios involving finance, supply chain, and process improvement." }
+    ],
+    "roleplayConnection": "Multi-departmental problem solving.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-06-03",
+    "day": 24,
+    "title": "Business in Society",
+    "difficulty": "Medium",
+    "topics": [
+      { "id": "24-1", "title": "Role of business", "studyTime": "25 min", "description": "Function of businesses in a capitalist society." },
+      { "id": "24-2", "title": "Stakeholders", "studyTime": "20 min", "description": "Anyone affected by or who can affect the business." },
+      { "id": "24-3", "title": "Economic systems", "studyTime": "25 min", "description": "Market, Command, and Mixed economies." }
+    ],
+    "roleplayConnection": "Balancing profit with stakeholder interests.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-06-04",
+    "day": 25,
+    "title": "Business Models & Types",
+    "difficulty": "Medium",
+    "topics": [
+      { "id": "25-1", "title": "Business activities", "studyTime": "20 min", "description": "Primary, secondary, and tertiary sectors." },
+      { "id": "25-2", "title": "Business models", "studyTime": "25 min", "description": "Subscription, direct sales, freemium, etc." },
+      { "id": "25-3", "title": "B2B vs B2C", "studyTime": "15 min", "description": "Business-to-Business vs Business-to-Consumer markets." },
+      { "id": "25-4", "title": "Franchises", "studyTime": "20 min", "description": "Pros and cons of franchising." }
+    ],
+    "roleplayConnection": "Choosing the right business model for a startup.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-06-05",
+    "day": 26,
+    "title": "Global Environment",
+    "difficulty": "Hard",
+    "topics": [
+      { "id": "26-1", "title": "Global business", "studyTime": "30 min", "description": "Expansion and operations in international markets." },
+      { "id": "26-2", "title": "Outsourcing", "studyTime": "20 min", "description": "Contracting work to external parties, often internationally." },
+      { "id": "26-3", "title": "Tariffs", "studyTime": "15 min", "description": "Taxes on imported goods." },
+      { "id": "26-4", "title": "Exchange rates", "studyTime": "20 min", "description": "Impact of currency fluctuations on profit." }
+    ],
+    "roleplayConnection": "Mitigating risks in international trade.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-06-06",
+    "day": 27,
+    "title": "Legal & IP",
+    "difficulty": "Hard",
+    "topics": [
+      { "id": "27-1", "title": "Legal issues", "studyTime": "30 min", "description": "Overview of business law." },
+      { "id": "27-2", "title": "Contracts", "studyTime": "20 min", "description": "Essential elements of a valid contract." },
+      { "id": "27-3", "title": "Employment law", "studyTime": "25 min", "description": "Rights and responsibilities of employers and employees." },
+      { "id": "27-4", "title": "Intellectual property", "studyTime": "20 min", "description": "Patents, trademarks, and copyrights." }
+    ],
+    "roleplayConnection": "Protecting company assets from legal challenges.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-06-07",
+    "day": 28,
+    "title": "Organizational Design Review",
+    "difficulty": "Hard",
+    "topics": [
+      { "id": "28-1", "title": "Design review", "studyTime": "30 min", "description": "Revisiting structure and authority concepts." },
+      { "id": "28-2", "title": "Matrix organizations", "studyTime": "20 min", "description": "Deep dive into dual reporting complexities." },
+      { "id": "28-3", "title": "Flat organizations", "studyTime": "15 min", "description": "Benefits of reduced hierarchy." },
+      { "id": "28-4", "title": "Divisional organizations", "studyTime": "20 min", "description": "Managing decentralized units." }
+    ],
+    "roleplayConnection": "Restructuring a failing organization.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-06-08",
+    "day": 29,
+    "title": "Strategic Leadership Review",
+    "difficulty": "Hard",
+    "topics": [
+      { "id": "29-1", "title": "Strategic review", "studyTime": "45 min", "description": "Final consolidation of strategic planning." },
+      { "id": "29-2", "title": "Integrated leadership cases", "studyTime": "45 min", "description": "High-level scenarios for C-suite decision making." }
+    ],
+    "roleplayConnection": "Strategic communication with stakeholders.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-06-09",
+    "day": 30,
+    "title": "Weakness Review",
+    "difficulty": "Medium",
+    "topics": [
+      { "id": "30-1", "title": "Weakness review", "studyTime": "60 min", "description": "Targeted review based on previous MCQ performance." },
+      { "id": "30-2", "title": "Mixed MCQ practice", "studyTime": "60 min", "description": "Broad practice across all domains." }
+    ],
+    "roleplayConnection": "Personalized strategy for the national exam.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-06-10",
+    "day": 31,
+    "title": "Advanced Analysis",
+    "difficulty": "Hard",
+    "topics": [
+      { "id": "31-1", "title": "Advanced cases", "studyTime": "60 min", "description": "Multi-domain management scenarios." },
+      { "id": "31-2", "title": "Multi-domain analysis", "studyTime": "60 min", "description": "Connecting finance, HR, and operations." }
+    ],
+    "roleplayConnection": "Complex reasoning for national-level competition.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-06-11",
+    "day": 32,
+    "title": "Nationals Simulation",
+    "difficulty": "Hard",
+    "topics": [
+      { "id": "32-1", "title": "Simulation", "studyTime": "90 min", "description": "Full-length practice environment simulation." },
+      { "id": "32-2", "title": "Comprehensive review", "studyTime": "60 min", "description": "Final check of all core concepts." }
+    ],
+    "roleplayConnection": "Final presentation polish and confidence.",
+    "mcqs": []
+  },
+  {
+    "date": "2026-06-12",
+    "day": 33,
+    "title": "Final Preparation",
+    "difficulty": "Easy",
+    "topics": [
+      { "id": "33-1", "title": "Light review", "studyTime": "30 min", "description": "Relaxed brush-up on key terms." },
+      { "id": "33-2", "title": "Final prep", "studyTime": "30 min", "description": "Mental preparation and strategy." },
+      { "id": "33-3", "title": "Confidence building", "studyTime": "30 min", "description": "Affirming readiness for Nationals." }
+    ],
+    "roleplayConnection": "Maintaining poise and professionalism under pressure.",
+    "mcqs": []
+  }
+]
