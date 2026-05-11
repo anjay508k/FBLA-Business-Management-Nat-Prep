@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { useNavigate } from 'react-router-dom';
 import { useStore } from '../store/useStore';
-import { User, Flame, CheckCircle2, ArrowRight } from 'lucide-react';
+import { Flame, CheckCircle2, ArrowRight } from 'lucide-react';
 
 const HomePage = () => {
   const navigate = useNavigate();

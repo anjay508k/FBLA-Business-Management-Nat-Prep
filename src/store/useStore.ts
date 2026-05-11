@@ -41,7 +41,7 @@ const DEFAULT_PROGRESS: UserProgress = {
 
 export const useStore = create<AppState>()(
   persist(
-    (set, get) => ({
+    (set) => ({
       profiles: [
         { id: 'anjay', name: 'Anjay Kannan', avatar: 'AK' },
         { id: 'sai', name: 'Sai Koochana', avatar: 'SK' },
@@ -52,7 +52,7 @@ export const useStore = create<AppState>()(
 
       setActiveProfile: (id) => set({ activeProfileId: id }),
 
-      toggleTopic: (profileId, topicId, date) => set((state) => {
+      toggleTopic: (profileId, topicId) => set((state) => {
         const profileProgress = state.progress[profileId] || { ...DEFAULT_PROGRESS };
         const isCompleted = profileProgress.completedTopics.includes(topicId);
         

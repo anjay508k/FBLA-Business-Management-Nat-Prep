@@ -7,7 +7,6 @@ import {
   Calendar as CalendarIcon, 
   Trophy, 
   ArrowLeft,
-  ChevronRight,
   Clock
 } from 'lucide-react';
 import { useRollover } from '../hooks/useRollover';
@@ -104,11 +103,10 @@ const Dashboard = () => {
             const dayData = studyPlan.find(d => d.date === dateStr);
             const isToday = new Date().toISOString().split('T')[0] === dateStr;
             const score = userProgress.mcqScores[dateStr];
-            const isCompleted = dayData && userProgress.completedDays.includes(dateStr);
             
             // For now, let's just mark it completed if all topics are checked
             const dayTopics = dayData?.topics.map(t => t.id) || [];
-            const completedInDay = dayTopics.every(id => userProgress.completedTopics.includes(id));
+            const completedInDay = dayTopics.length > 0 && dayTopics.every(id => userProgress.completedTopics.includes(id));
             const hasScore = score !== undefined;
 
             return (

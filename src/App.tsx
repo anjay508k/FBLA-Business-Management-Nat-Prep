@@ -6,7 +6,6 @@ import DayPage from './pages/DayPage';
 import { useStore } from './store/useStore';
 
 function App() {
-  const { activeProfileId } = useStore();
 
   return (
     <Router>
